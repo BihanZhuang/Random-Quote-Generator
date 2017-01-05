@@ -1,4 +1,4 @@
 # Random-Quote-Generator
 
 Simple random quote generator built with Bootstrap, jQuery and deployed with Heroku.<br>
-Go to rdmquote.html to see it!
+Go to https://rdm-quote.herokuapp.com to see it!
